@@ -31,6 +31,7 @@ array_push($arr,$arr[count($arr)-1]+$arr[count($arr)-2]);
 echo (implode( ",",$arr));
 echo "<br>";
 echo "<br>";
+
 //task 9
 $x = 1;
 for ($i = 1; $i <= 5; $i++) {
